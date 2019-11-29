@@ -87,7 +87,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',  # mysql数据库引擎
         'NAME': 'todolist',  # 数据库名字
         'USER': 'root',  # 用户名
-        'PASSWORD': 'shan007',  # 密码
+        'PASSWORD': 'shan0079',  # 密码
         'HOST': 'localhost',  # 主机
         'PORT': '3306'  # 端口
     }
